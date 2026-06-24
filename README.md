@@ -23,3 +23,4 @@ Uma imersão em como drones, inteligência artificial e tratores autônomos est�
 Será que o futuro da agricultura está dentro de prédios nas grandes cidades? Descubra como funciona a agricultura vertical sem solo e com controle total de luz e água.
 [![Fazendas Verticais](https://img.youtube.com/vi/mI_R_F-X6O8/0.jpg)](https://www.youtube.com/watch?v=mI_R_F-X6O8)
 *💡 Clique na imagem acima para assistir.*
+.
