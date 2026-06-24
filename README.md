@@ -1,36 +1,26 @@
 # kevim-massi
 blog
-# 📝 Kevim Massi - Personal Blog
+## 🌾 Vídeos Tops sobre Agricultura e Tecnologia
 
-Bem-vindo ao repositório do meu blog pessoal! Este é um espaço desenvolvido com tecnologias web fundamentais para compartilhar artigos, aprendizados de programação, projetos e ideias gerais.
-
-O site é hospedado de forma gratuita e automática utilizando o **GitHub Pages**.
+Se você curte inovação no campo, separei alguns dos melhores conteúdos e documentários sobre a transformação da agricultura no mundo:
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-
-O projeto foi construído de forma limpa e modular, separando a estrutura, o design e a lógica:
-
-* **HTML5:** Estruturação semântica do conteúdo e dos posts.
-* **CSS3:** Design responsivo, estilização moderna e suporte a temas.
-* **JavaScript (Vanilla):** Lógica para interatividade e manipulação do DOM.
+### 🚜 1. O Futuro da Agricultura: AgroTech e IA
+Uma imersão em como drones, inteligência artificial e tratores autônomos estão mudando completamente a produção de alimentos.
+[![O Futuro da Agricultura](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/results?search_query=agricultura+do+futuro+tecnologia)
+*💡 Clique na imagem acima para assistir no YouTube.*
 
 ---
 
-## ⚡ Funcionalidades
-
-* **Design Responsivo:** Adaptado para leitura em computadores, tablets e celulares.
-* **🌓 Dark Mode Dinâmico:** Botão integrado via JavaScript que permite alternar entre o tema claro e escuro.
-* **Persistência de Tema:** O site lembra a escolha de tema do usuário (Claro/Escuro) mesmo após atualizar a página, utilizando `localStorage`.
+### 🌿 2. Fazendas Verticais: A Revolução Urbana
+Será que o futuro da agricultura está dentro de prédios nas grandes cidades? Descubra como funciona a agricultura vertical sem solo e com controle de luz.
+[![Fazendas Verticais](https://img.youtube.com/vi/dQw4w9WgXcQ/1.jpg)](https://www.youtube.com/results?search_query=fazendas+verticais+documentario)
+*💡 Clique na imagem acima para assistir no YouTube.*
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```text
-/
-├── index.html   # Estrutura principal e conteúdo dos posts
-├── style.css    # Estilização visual e regras dos temas
-├── script.js   # Lógica do alternador de tema (Dark Mode)
-└── README.md    # Documentação do projeto
+### 🇧🇷 3. A Força do Agro no Brasil
+Um panorama sobre como o Brasil se tornou uma das maiores potências agrícolas do planeta utilizando ciência e tecnologia aplicada ao solo de clima tropical.
+[![Agro no Brasil](https://img.youtube.com/vi/dQw4w9WgXcQ/2.jpg)](https://www.youtube.com/results?search_query=tecnologia+no+agro+brasileiro)
+*💡 Clique na imagem acima para assistir no YouTube.*
