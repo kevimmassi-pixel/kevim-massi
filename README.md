@@ -1,6 +1,5 @@
 # kevim-massi
 blog
-## 🌾 Vídeos Tops sobre Agricultura e Tecnologia
 
 Se você curte inovação no campo, separei alguns dos melhores conteúdos e documentários sobre a transformação da agricultura no mundo:
 
